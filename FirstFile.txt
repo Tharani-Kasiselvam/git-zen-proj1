@@ -1,5 +1,5 @@
 Creating this file as a practice of yesterday's session
-Till now im clear with tasks/concepts
 Saving the File
 
 Editing the File and adding a new line
+Removed a line and added a new line
